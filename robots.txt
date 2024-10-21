@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sopserchm.github.io/sopserchm.txt.gz
+Sitemap: https://sopserchm.github.io/app/sopserchm.txt.gz
+Sitemap: https://sopserchm.github.io/assets/sopserchm.txt.gz
+Sitemap: https://sopserchm.github.io/css/sopserchm.txt.gz
+Sitemap: https://sopserchm.github.io/includes/sopserchm.txt.gz
+Sitemap: https://sopserchm.github.io/item/sopserchm.txt.gz
+Sitemap: https://sopserchm.github.io/src/sopserchm.txt.gz
